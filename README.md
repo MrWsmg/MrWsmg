@@ -61,7 +61,7 @@ Hi there! I'm **MrWsmg**, a passionate **cybersecurity student** in my final yea
 
 ## 💡 Fun Fact
 
-I love solving challenging problems and automating repetitive tasks using Python. When I’m not working on cybersecurity, you might find me exploring the latest in AI and machine learning or diving deep into cryptography books!
+I love solving challenging problems and automating repetitive tasks using Python!
 I like basketball also
 ---
 
