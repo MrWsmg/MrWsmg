@@ -8,7 +8,7 @@ Hi there! I'm **MrWsmg**, a passionate **cybersecurity student** in my final yea
 
 - **🎓 Education**: Bachelor's Degree in Cybersecurity
 - **💻 Programming Skills**:
-  - **Languages**: C, Python, and a bit of Java
+  - **Languages**: C, Python, JavaScript ,React ,and a bit of Java
   - **Focus Areas**: Cybersecurity tools, system analysis, and vulnerability assessments
 - **🌐 Interests**:
   - Cybersecurity research and ethical hacking
