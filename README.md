@@ -536,17 +536,20 @@ STATUS: OPERATIONAL 🟢
 
 ---
 
-# 📈 `> GITHUB_ANALYTICS`
+# 📈 `> ACTIVITY_LOG`
 
-<div align="center">
+```bash
+┌──(MrWsmg㉿matrix)-[~]
+└─$ git log --stat --author="MrWsmg"
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrWsmg&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="Walter's GitHub Stats"/>
+commit_frequency ......... REGULAR
+primary_language ......... Python
+active_repos .............. cybersecurity, automation, web-apps
+focus_this_cycle .......... security tooling + AI agents
 
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWsmg&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Walter's Most Used Languages"/>
-
-</div>
+$ echo "For live stats, see:"
+> https://github.com/MrWsmg?tab=repositories
+```
 
 ---
 
