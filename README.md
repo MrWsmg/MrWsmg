@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟢 WALTER S. MKINGILIMA
+#  WALTER S. MKINGILIMA
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+Initializing+Walter.exe...;%3E+Cybersecurity+Specialist;%3E+Software+Developer;%3E+Python+%7C+JavaScript+%7C+React;%3E+Security+%2B+Automation+%2B+AI;%3E+Welcome+to+the+Matrix..." />
 
