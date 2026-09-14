@@ -200,11 +200,11 @@ security_modules:
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/KALI_LINUX-0D1117?style=for-the-badge\&logo=kalilinux\&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-0D1117?style=for-the-badge\&logo=wireshark\&logoColor=00FF41)
-![Metasploit](https://img.shields.io/badge/METASPLOIT-0D1117?style=for-the-badge\&logo=metasploit\&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge\&logo=linux\&logoColor=00FF41)
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge\&logo=git\&logoColor=00FF41)
+![Kali Linux](https://img.shields.io/badge/KALI_LINUX-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-0D1117?style=for-the-badge&logo=metasploit&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
 
 </div>
 
@@ -540,11 +540,11 @@ STATUS: OPERATIONAL 🟢
 
 <div align="center">
 
-<img height="180em" src="./profile/stats.svg" alt="Walter's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrWsmg&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="Walter's GitHub Stats"/>
 
 <br>
 
-<img height="180em" src="./profile/top-langs.svg" alt="Walter's Most Used Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWsmg&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Walter's Most Used Languages"/>
 
 </div>
 
