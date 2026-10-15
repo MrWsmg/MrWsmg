@@ -196,28 +196,52 @@ $ cat current_focus.log
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="left">📊 GitHub Activity</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrWsmg&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
+<a href="https://github.com/MrWsmg">
+  <img
+    src="https://ghchart.rshah.org/00FF41/MrWsmg"
+    alt="MrWsmg GitHub Contribution Graph"
+  />
+</a>
 
-<br>
+<p>
+  Contributions shown reflect GitHub's publicly
+  visible contribution activity.
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWsmg&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/MrWsmg?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/View_My_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"
+    alt="GitHub Repositories"
+  />
+</a>
 
 </div>
 
+
 ---
 
-## 🐍 Contribution Matrix
+
+<h2 align="left">🐍 Contribution Matrix</h2>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrWsmg/MrWsmg/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrWsmg/MrWsmg/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MrWsmg/MrWsmg/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MrWsmg/MrWsmg/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MrWsmg/MrWsmg/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="MrWsmg Contribution Snake"
+    src="https://raw.githubusercontent.com/MrWsmg/MrWsmg/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
