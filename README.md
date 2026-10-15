@@ -196,30 +196,38 @@ $ cat current_focus.log
 
 ---
 
-<h2 align="left">📊 GitHub Activity</h2>
+
+<h2 align="left">💻 Development Philosophy</h2>
+
+<p>
+  I approach software engineering with a security-first
+  mindset, focusing on reliability, scalability,
+  and continuous improvement.
+</p>
+
+<pre>
+<code>
+MrWsmg@matrix:~$ cat principles.conf
+
+[+] Understand before building
+[+] Design with security in mind
+[+] Write clean, maintainable code
+[+] Automate repetitive processes
+[+] Build for reliability and scale
+[+] Keep learning and improving
+
+STATUS: ALWAYS EVOLVING
+</code>
+</pre>
 
 <div align="center">
 
-<a href="https://github.com/MrWsmg">
-  <img
-    src="https://ghchart.rshah.org/00FF41/MrWsmg"
-    alt="MrWsmg GitHub Contribution Graph"
-  />
-</a>
-
-<p>
-  Contributions shown reflect GitHub's publicly
-  visible contribution activity.
-</p>
-
 <a href="https://github.com/MrWsmg?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/View_My_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"
-    alt="GitHub Repositories"
-  />
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="Explore Repositories" />
 </a>
 
 </div>
+
 
 
 ---
